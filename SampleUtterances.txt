@@ -1,0 +1,28 @@
+GetTrafficUpdatesIntent whats the traffic
+GetTrafficUpdatesIntent traffic update
+GetTrafficUpdatesIntent how are the roads
+GetTrafficUpdatesIntent is traffic bad
+GetTrafficUpdatesIntent are the roads bad
+GetTrafficUpdatesIntent will i be stuck in traffic
+GetTrafficUpdatesIntent how bad is the traffic
+
+GetTimeToArrivalIntent what time will I get to {endLocation}
+GetTimeToArrivalIntent what is my e t a to {endLocation}
+GetTimeToArrivalIntent e t a to {endLocation}
+GetTimeToArrivalIntent how long will it take to {endLocation}
+
+GetRemindMeIntent remind me when to leave
+GetRemindMeIntent remind me
+GetRemindMeIntent tell me when to leave
+
+AMAZON.StopIntent exit
+AMAZON.StopIntent bye
+
+GetTellFriendsIntent tell my friends my e t a
+GetTellFriendsIntent give my friends my e t a
+GetTellFriendsIntent tell my friends when i will reach
+GetTellFriendsIntent tell my friends
+GetTellFriendsIntent send my friends my e t a
+GetTellFriendsIntent send my friends
+GetTellFriendsIntent update my friends
+GetTellFriendsIntent show my friends

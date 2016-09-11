@@ -1,0 +1,32 @@
+{
+    "intents": [
+                {
+                "intent": "GetTrafficUpdatesIntent"
+                },
+                {
+                "intent": "GetTimeToArrivalIntent",
+                "slots": [
+                          {
+                          "name": "endLocation",
+                          "type": "LIST_OF_ENDPOINTS"
+                          }
+                          ]
+                
+                },
+                {
+                "intent": "GetRemindMeIntent"
+                },
+                {
+                "intent": "GetTellFriendsIntent"
+                },
+                {
+                "intent": "AMAZON.HelpIntent"
+                },
+                {
+                "intent": "AMAZON.StopIntent"
+                },
+                {
+                "intent": "AMAZON.CancelIntent"
+                }
+                ]
+}
